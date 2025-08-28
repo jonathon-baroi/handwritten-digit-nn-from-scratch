@@ -1,0 +1,2 @@
+This repo consists of a neural network designed from scratch, in an attempt to create a simple framework which allows one to define the model architecture, with Linear Layers, ReLU and Softmax activations, a Cross Entropy Loss function as well as an SGD optimizer.
+This is constructed from scratch using numpy arrays, to demonstrate a strong understanding of each step in a neural network, from forward and backward propagation, to gradient decent, batching and evaluation.
